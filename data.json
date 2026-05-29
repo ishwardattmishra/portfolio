@@ -1,0 +1,141 @@
+{
+  "openSourceContributions": [
+    {
+      "id": "oss-RealmExplorer",
+      "title": "RealmExplorer",
+      "url": "https://github.com/ishwardattmishra/RealmExplorer",
+      "icon": "⚡",
+      "description": "VS Code extension to browse, query, and manage RealmDB databases",
+      "dotClass": "ts",
+      "technologies": "TypeScript"
+    },
+    {
+      "id": "oss-http-status-code",
+      "title": "http-status-code",
+      "url": "https://github.com/ishwardattmishra/http-status-code",
+      "icon": "💛",
+      "description": "Open source repository.",
+      "dotClass": "js",
+      "technologies": "JavaScript"
+    },
+    {
+      "id": "oss-is-online",
+      "title": "is-online",
+      "url": "https://github.com/ishwardattmishra/is-online",
+      "icon": "🎯",
+      "description": "Open source repository.",
+      "dotClass": "cs",
+      "technologies": "C#"
+    },
+    {
+      "id": "oss-node-pango",
+      "title": "node-pango",
+      "url": "https://github.com/ishwardattmishra/node-pango",
+      "icon": "💛",
+      "description": "A high-fidelity, ESM-first Node.js wrapper for the pango-view CLI featuring native HTML-to-Pango conversion, layout engine bindings, SVG/PDF Cairo rendering, and dynamic font-by-path support without system installation.",
+      "dotClass": "js",
+      "technologies": "JavaScript"
+    },
+    {
+      "id": "oss-portfolio",
+      "title": "portfolio",
+      "url": "https://github.com/ishwardattmishra/portfolio",
+      "icon": "🌐",
+      "description": "Ishwar Datt Mishra — Lead Software Engineer Portfolio",
+      "dotClass": "html",
+      "technologies": "HTML"
+    }
+  ],
+  "technicalBlogs": [
+    {
+      "id": "article-eval",
+      "title": "Avoid eval() and with: Best Practices for Cleaner JavaScript Code",
+      "url": "https://medium.com/@ishwardatt/avoid-eval-and-with-best-practices-for-cleaner-javascript-code-849c539e871b",
+      "tag": "JS Safety",
+      "date": "Dec 2024",
+      "description": "JS scope & safety best practices for modern codebases."
+    },
+    {
+      "id": "article-hoisting",
+      "title": "Understanding Hoisting in JavaScript",
+      "url": "https://medium.com/@ishwardatt/understanding-hoisting-in-javascript-3688e34ddcc5",
+      "tag": "JS Internals",
+      "date": "Apr 2024",
+      "description": "A deep dive into JavaScript's execution model and variable hoisting."
+    },
+    {
+      "id": "article-var",
+      "title": "Why var is Still a Valuable Tool in Modern JavaScript Development",
+      "url": "https://medium.com/@ishwardatt/why-var-is-still-a-valuable-tool-in-modern-javascript-development-470ff0c9393c",
+      "tag": "JS Execution",
+      "date": "Jun 2024",
+      "description": "JS execution model deep dive — a nuanced take on var vs let/const."
+    },
+    {
+      "id": "article-cloudflare",
+      "title": "Creating and Deploying a Cloudflare Worker with Node.js (TypeScript)",
+      "url": "https://medium.com/@ishwardatt/creating-and-deploying-a-cloudflare-worker-with-nodejs-typescript-bde33963763f",
+      "tag": "Edge Computing",
+      "date": "Oct 2023",
+      "description": "Edge computing & serverless patterns with Cloudflare Workers."
+    },
+    {
+      "id": "article-nestjs",
+      "title": "Deploying a NestJS Application with PM2 on a Ubuntu Server",
+      "url": "https://medium.com/@ishwardatt/deploying-a-nestjs-application-with-pm2-on-a-ubuntu-server-a7f9026d535d",
+      "tag": "DevOps",
+      "date": "Oct 2023",
+      "description": "Node.js production deployment guide with PM2 process management."
+    }
+  ],
+  "certifications": [
+    {
+      "title": "AWS Certified Developer – Associate",
+      "url": "https://credly.com/badges/d9b267c2-e008-44ee-bd5a-531cae423474",
+      "icon": "☁️",
+      "name": "AWS Certified",
+      "sub": "Developer – Associate",
+      "id": "aws-cert"
+    },
+    {
+      "title": "React Basics",
+      "url": "https://www.coursera.org/account/accomplishments/verify/LH2Q99RGIBQZ",
+      "icon": "⚛️",
+      "name": "Meta",
+      "sub": "React Basics",
+      "id": "react-basics"
+    },
+    {
+      "title": "Model Context Protocol",
+      "url": "https://verify.skilljar.com/c/f7fdcpvr5znd",
+      "icon": "🤖",
+      "name": "Anthropic",
+      "sub": "Intro to MCP",
+      "id": "mcp-intro"
+    },
+    {
+      "title": "RabbitMQ Training Course",
+      "url": "#",
+      "icon": "🐰",
+      "name": "CloudAMQP",
+      "sub": "RabbitMQ Training",
+      "id": "rabbitmq"
+    },
+    {
+      "title": "Intro to Generative AI",
+      "url": "https://www.coursera.org/account/accomplishments/verify/YFMXWJ3Y5V2D",
+      "icon": "☁️",
+      "name": "Google Cloud",
+      "sub": "Intro to Generative AI",
+      "id": "gen-ai"
+    },
+    {
+      "title": "MTA: Database Fundamentals",
+      "url": "https://www.credly.com/badges/7fc6a78e-b4f8-47d5-b567-edc5df2fe0ad/public_url",
+      "icon": "🗄️",
+      "name": "Microsoft",
+      "sub": "Database Fundamentals",
+      "id": "mta-db"
+    }
+  ]
+}
